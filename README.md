@@ -53,3 +53,12 @@ https://github.com/rajagopalmotivate/AIforEmpoweringPersonswithDisability/blob/m
 
 ### kLab 10:   Few Shot Learning
 https://github.com/rajagopalmotivate/AIforEmpoweringPersonswithDisability/blob/main/kLab_10_Zero_vs_Few_shot_prompting.ipynb
+
+
+# Sample User Interface  
+
+### kLab 4A: Streamlit
+https://github.com/rajagopalmotivate/AIforEmpoweringPersonswithDisability/blob/main/kLab_4_streamlit_User_Interface.ipynb
+
+### kLab 4B: HF Spaces
+https://sites.google.com/view/ai-empower/samples-hf-apps
