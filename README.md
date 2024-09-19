@@ -62,3 +62,8 @@ https://github.com/rajagopalmotivate/AIforEmpoweringPersonswithDisability/blob/m
 
 ### kLab 4B: HF Spaces
 https://sites.google.com/view/ai-empower/samples-hf-apps
+
+
+# Hack-a-thon Resources
+Multimodal Few Shot Learning
+https://github.com/rajagopalmotivate/AIforEmpoweringPersonswithDisability/blob/main/Multimodal_Few_Shot_Learning.ipynb
